@@ -1,0 +1,32 @@
+[
+  {
+    "id": 123,
+    "first_name": "olxzcvzxcvxcvasdim",
+    "last_name": "olzxcvzxcvzxcvzxcvzxcvim",
+    "email": "olivzxcvzxcvm@olim.com",
+    "dob": "2012-04-23T18:25:43.511Z",
+    "gender": "MALE",
+    "status": "ACTIVE",
+    "temp_email": "olicasdcqwecsm@olim.com"
+  },
+  {
+    "id": 122,
+    "first_name": "zxcvzxcvzxvc",
+    "last_name": "axczvzxvcas",
+    "email": "olizxcvzxcvm@asdf.com",
+    "dob": "Dec 29, 2021 12:30:58 AM",
+    "gender": "MALE",
+    "status": "DELETED",
+    "temp_email": "oladsfasqwdaim@asdf.com"
+  },
+  {
+    "id": 121,
+    "first_name": "ffff",
+    "last_name": "xczvxzvvvvvv",
+    "email": "olimvvvvvvvvvv@qwe.com",
+    "dob": "Dec 29, 2021 12:30:58 AM",
+    "gender": "FEMALE",
+    "status": "ACTIVE",
+    "temp_email": "osdafasdflim@qwe.com"
+  }
+]
